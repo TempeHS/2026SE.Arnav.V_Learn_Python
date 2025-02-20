@@ -1,7 +1,7 @@
 file = input('Name of file? ').strip().lower()
 if file == ('.gif'):
     print('image/gif')
-elif file == ('.jpg', '.jpeg'):
+elif file == ('.jpg') or ('.jpeg'):
     print('image/jpeg')
 elif file == ('.png'):
     print('image/png')
