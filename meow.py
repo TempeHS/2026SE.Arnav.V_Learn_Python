@@ -1,4 +1,1 @@
-students = ['Heroione', 'Ron', 'Harry']
-
-for i in range(len(students)):
-    print(i + 1, students[i])
+students = {"Hermione": "gryffindor", "Luna": "ravenclaw", "Draco": "slytherin", "Cedric": "hufflepuff"}
